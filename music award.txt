@@ -1,0 +1,54 @@
+MTV Video Music Awards
+Music Award
+Best Song
+Best Composer
+Top Artist
+Top Male Artist
+Top Hot 100 Artist
+Top Radio Song Artist
+Top Social Artist
+Top Female Artist
+Artist of the Decade
+Top Streaming Songs Artist
+Top Song Sales Artist
+Top Social Artist (Fan Voted)
+Top R&B Artist
+Top R&B Male Artist
+Top R&B Female Artist
+Top Rap Artis
+Top Rap Male Artist
+Top Rap Female Artist
+Top Country Artist
+Top Country Male Artist
+Top Country Female Artist
+Top Country Duo/Group
+Top Rock Artist
+Top Latin Artist
+Top Latin Male Artist
+Top Latin Female Artist
+Top Latin Duo/Group
+Top Dance/Electronic Artist
+Top Christian Artist
+Top Gospel Artist
+Top Billboard 200 Album
+Top R&B Album
+Top Rap Album
+Top Country Album
+Top Rock Album
+Top Latin Album
+Top Dance/Electronic Album
+Top Christian Album
+Top Gospel Album
+Top Hot 100 Song Presented by Rockstar
+Top Streaming Song
+Top Selling Song
+Top Radio Song
+Top Collaboration (Fan Voted)
+Top R&B Song
+Top Rap Song
+Top Country Song
+Top Rock Song
+Top Latin Song
+Top Dance/Electronic Song
+Top Christian Song
+Top Gospel Song
